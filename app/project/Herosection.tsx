@@ -65,7 +65,7 @@ export default function IntroHero() {
 
         {/* Screen 1: Original Hero View (100vw) */}
         <div className="w-screen h-full flex flex-col justify-center px-8 md:px-24">
-          <div className="max-w-5xl">
+          <div className="max-w-7xl">
             <p className="hero-element text-sm uppercase tracking-widest text-zinc-400 mb-6 font-mono opacity-0">
               Assignment 2 - Interface Development - MMV
             </p>
@@ -78,7 +78,7 @@ export default function IntroHero() {
             </h1>
 
             <div
-              className="hero-element max-w-2xl text-lg md:text-xl text-zinc-300 font-light leading-relaxed mb-12 space-y-6 opacity-0"
+              className="hero-element max-w-5xl text-lg md:text-xl text-zinc-300 font-light leading-relaxed mb-12 space-y-6 opacity-0"
               style={{ fontFamily: "'Inter', sans-serif" }}
             >
               <p>
@@ -91,7 +91,7 @@ export default function IntroHero() {
               className="hero-element group relative inline-flex items-center justify-center px-8 py-4 font-bold text-black bg-white rounded-full overflow-hidden transition-transform hover:scale-105 active:scale-95 opacity-0"
             >
               <span className="relative z-10 flex items-center gap-3">
-                Scroll or Click
+                Scroll or Click here!
               </span>
             </button>
           </div>
