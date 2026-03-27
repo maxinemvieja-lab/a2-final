@@ -67,7 +67,7 @@ export default function IntroHero() {
         <div className="w-screen h-full flex flex-col justify-center px-8 md:px-24">
           <div className="max-w-5xl">
             <p className="hero-element text-sm uppercase tracking-widest text-zinc-400 mb-6 font-mono opacity-0">
-              Assignment 2 - Interface Development
+              Assignment 2 - Interface Development - MMV
             </p>
 
             <h1
